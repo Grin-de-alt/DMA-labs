@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab01-Intro</string>
+    <string name="hello_blank_fragment"></string>
+    <string name="toast_create">далее</string>
+    <string name="toast_text">Введите текст</string>
+    <string name="toast_error" formatted="false">Minimum %d characters required</string>
+</resources>
